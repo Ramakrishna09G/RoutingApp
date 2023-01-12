@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.contact-router-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.contact-blog-img {
+  height: 280px;
+  width: 280px;
+}
+.contact-heading {
+  font-size: 45px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #551e53;
+}

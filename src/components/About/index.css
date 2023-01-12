@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-img {
+  height: 280px;
+  width: 280px;
+}
+.about-heading {
+  font-size: 45px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #551e53;
+}
+.about-description {
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #555555;
+  text-align: center;
+}
